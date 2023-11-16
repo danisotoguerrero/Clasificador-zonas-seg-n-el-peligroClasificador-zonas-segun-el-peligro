@@ -1,7 +1,8 @@
 # Clasificador zonas segun el peligro
 
 Introducción
-—————————————————————————————————————————————————————————
+
+———————————————————————————————————————————————————————
 
 En el laboratorio, nos centraremos en un conjunto de datos que incluye registros de
 crímenes de 1973 en distintos estados de EE. UU., así como el porcentaje de la población
