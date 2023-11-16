@@ -1,4 +1,4 @@
-# Clasificador-zonas-segun-el-peligro
+# Clasificador zonas segun el peligro
 
 Introducción
 —————————————————————————————————————————
